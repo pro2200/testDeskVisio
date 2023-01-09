@@ -15,3 +15,5 @@ this file is changed to testing GitHub application
 
 ## testing master branch from office computer twice
 this file is changed to testing GitHub application 
+
+member 1 had recent pushes less than a minute ago. 
